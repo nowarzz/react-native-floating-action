@@ -28,6 +28,7 @@
   "homepage": "https://github.com/santomegonzalo/react-native-floating-action#readme",
   "dependencies": {},
   "peerDependencies": {
+    "TouchableNativeFeedback": "https://bitbucket.org/homansystem/touchablenativefeedback",
     "prop-types": "*",
     "react": "*",
     "react-native": "*"

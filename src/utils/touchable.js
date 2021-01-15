@@ -1,9 +1,5 @@
-import {
-  Platform,
-  TouchableOpacity,
-  TouchableNativeFeedback
-} from "react-native";
-
+import { Platform, TouchableOpacity } from "react-native";
+import TouchableNativeFeedback from 'TouchableNativeFeedback';
 import { shadeColor } from "./color";
 
 export function getTouchableComponent(useNativeFeedback = true) {
